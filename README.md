@@ -9,9 +9,9 @@ An intelligent **Machine Learning-powered** credit risk assessment platform for 
 
 ## 🌟 Features
 
-- **📊 Data Generation**: Generate 2,500 realistic customer credit records with demographics, financial history, and loan details
-- **🔍 EDA Analysis**: Comprehensive exploratory data analysis with interactive visualizations
-- **🤖 ML Models**: Train and compare 3 machine learning models (Logistic Regression, Random Forest, SVM)
+- **📊 Data Generation**: Generate 2,500 realistic customer credit records with demographics, financial history, and loan details.
+- **🔍 EDA Analysis**: Comprehensive exploratory data analysis with interactive visualizations.
+- **🤖 ML Models**: Train and compare 3 machine learning models (Logistic Regression, Random Forest, SVM).
 - **🎯 Predictions**: Real-time credit default risk prediction with probability scores
 - **📈 Visualizations**: Interactive charts and graphs using Plotly
 - **💾 Model Persistence**: Save and load trained models for production use
